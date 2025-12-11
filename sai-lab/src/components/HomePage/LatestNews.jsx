@@ -3,8 +3,8 @@ import '../../assets/css/latestnews.css'
 export default function LatestNews() {
     const newsItems = [
       {
-        title: "Carlos Guestrin named as new Director of the Stanford AI Lab!",
-        desc: "We thank Christopher Manning for being Director of the Stanford AI Lab during a period of enormous growth for AI and SAIL from 2018–2025 and today welcome Carlos Guestrin, Fortinet Founders Professor of Computer Science, as the new Director of SAIL.",
+        title: "Carlos Guestrin named as new Director of the Systems AI Lab!",
+        desc: "We thank Christopher Manning for being Director of the Systems and AI Lab during a period of enormous growth for AI and SAIL from 2018–2025 and today welcome Carlos Guestrin, Fortinet Founders Professor of Computer Science, as the new Director of SAIL.",
         link: "#",
       },
       {
@@ -33,7 +33,7 @@ export default function LatestNews() {
       },
       {
         title:
-          "Congratulations to Stanford AI Lab PhD student Dora Zhao for an ICML 2024 Best Paper Award!",
+          "Congratulations to Systems and AI Lab PhD student Dora Zhao for an ICML 2024 Best Paper Award!",
         desc: "",
         link: "#",
       },
