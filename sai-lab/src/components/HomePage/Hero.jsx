@@ -8,10 +8,10 @@ function Hero() {
 
       <Container className="hero-content">
         <h1 className="hero-title">Systems & AI Lab</h1>
-        <p className="hero-subtitle">The Ohio State University</p>
-        <p className="hero-tagline">
+        <p className="hero-subtitle"><strong>The Ohio State University</strong></p>
+        {/* <p className="hero-tagline">
           Advancing machine learning, distributed systems, and intelligent computation.
-        </p>
+        </p> */}
 
         <div className="hero-buttons">
           <button className="hero-btn">Learn More</button>
